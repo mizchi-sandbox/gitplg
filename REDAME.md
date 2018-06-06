@@ -1,3 +1,3 @@
 # Isomorphic Git Playground
 
-to check push/clone
+to check push/clone!

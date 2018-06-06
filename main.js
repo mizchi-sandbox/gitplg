@@ -17,13 +17,6 @@ const main = async () => {
     authPassword: process.env.GITHUB_TOKEN
   });
   console.log(pushResponse);
-  // await git.push({
-  //   ...repo,
-  //   url:
-  //     "https://cors-buster-tbgktfqyku.now.sh/github.com/isomorphic-git/isomorphic-git",
-  //   singleBranch: true,
-  //   depth: 1
-  // })
   // await git.clone({
   //   ...repo,
   //   url:
